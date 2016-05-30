@@ -10,3 +10,4 @@ Swift中国 |  <http://swiftcn.io/>
 从OC向Swift转换学习经验 |  <http://geek.csdn.net/news/detail/58094> 
 Swift 语言指南 |  <https://github.com/ipader/SwiftGuide> 
 15DaysofAnimationsinSwift |  <https://github.com/larrynatalicio/15DaysofAnimationsinSwift> 
+SwiftGuide |  <https://github.com/ipader/SwiftGuide> 
