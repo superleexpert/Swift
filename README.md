@@ -13,3 +13,4 @@ Swift 语言指南 |  <https://github.com/ipader/SwiftGuide>
 SwiftGuide |  <https://github.com/ipader/SwiftGuide> 
 示例集合 |  <https://github.com/carlbtrn/Swift> 
 数据结构及算法示例 |  <https://github.com/waynewbishop/SwiftStructures> 
+SwifterSwift |  <https://github.com/omaralbeik/SwifterSwift> 
