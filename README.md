@@ -15,3 +15,4 @@ SwiftGuide |  <https://github.com/ipader/SwiftGuide>
 数据结构及算法示例 |  <https://github.com/waynewbishop/SwiftStructures> 
 SwifterSwift |  <https://github.com/omaralbeik/SwifterSwift> 
 iOS-Swift-Demos |  <https://github.com/Lax/iOS-Swift-Demos> 
+open-source-ios-apps |  <https://github.com/dkhamsing/open-source-ios-apps> 
