@@ -16,3 +16,5 @@ SwiftGuide |  <https://github.com/ipader/SwiftGuide>
 SwifterSwift |  <https://github.com/omaralbeik/SwifterSwift> 
 iOS-Swift-Demos |  <https://github.com/Lax/iOS-Swift-Demos> 
 open-source-ios-apps |  <https://github.com/dkhamsing/open-source-ios-apps> 
+Swift30Projects |  <https://github.com/soapyigu/Swift30Projects> 
+30DaysofSwift |  <https://github.com/allenwong/30DaysofSwift> 
