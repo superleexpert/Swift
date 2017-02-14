@@ -18,3 +18,4 @@ iOS-Swift-Demos |  <https://github.com/Lax/iOS-Swift-Demos>
 open-source-ios-apps |  <https://github.com/dkhamsing/open-source-ios-apps> 
 Swift30Projects |  <https://github.com/soapyigu/Swift30Projects> 
 30DaysofSwift |  <https://github.com/allenwong/30DaysofSwift> 
+Developing-iOS-9-Apps-with-Swift |  <https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift> 
